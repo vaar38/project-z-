@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://vaar38.github.io/project(z)/)
+- [Публичная страница на GitHub Pages](https://vaar38.github.io/project-z-/)
